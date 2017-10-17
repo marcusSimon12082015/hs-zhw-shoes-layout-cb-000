@@ -21,7 +21,9 @@
 .clear {
   clear: both;
 }
-
+*{
+	box-sizing: border-box;
+}
 /* Posititoning Classes */
 .col-1{
   float: left;
