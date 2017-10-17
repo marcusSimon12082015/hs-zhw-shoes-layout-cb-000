@@ -31,6 +31,8 @@
 .col-2{
   float: left;
   width: 66%;
+  border: 1px solid black;
+
 }
 .col-3{
 
